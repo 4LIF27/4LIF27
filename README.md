@@ -1,7 +1,7 @@
-### Hi there im Alifkff👋
+### Hi there im Gustav XV.👋
 
 <!--
-**alifkf/alifkf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Gustav-XV/Gustav-XV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
