@@ -18,3 +18,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Ikuti-green?style=for-the-badge&logo=instagram)](https://Instagram.com/zhukovxynn)
 [![WhatsApp](https://img.shields.io/badge/whatsapp-Hubungi-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=%2B6289691998257&text&app_absent=0)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=F70000&height=600&lines=%C2%A9GEORGY+ALIFICH+L+ZHUKOV)](https://git.io/typing-svg)
