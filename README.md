@@ -6,7 +6,6 @@
   <a href="https://github.com/zhukov-z">ZHUKOV</a>
 </p>
 <p align="center">
- <a href="https://ibb.co/vxRP1qS"><img src="https://i.ibb.co/fYLpMFs/20220508-114457.jpg" alt="20220508-114457" border="0"></a>
 </p>
 
 ## Visitor Github 
