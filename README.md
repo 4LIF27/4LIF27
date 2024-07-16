@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ZHUK</h1>
 <h3 align="center">A junior frontend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhukov-z&label=Profile%20views&color=0e75b6&style=flat" alt="zhukov-z" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=4LIF27&label=Profile%20views&color=0e75b6&style=flat" alt="zhukov-z" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhukov-z" alt="zhukov-z" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4LIF27" alt="zhukov-z" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,8 +17,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gzhuk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gzhuk" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhukov-z&show_icons=true&locale=en&layout=compact" alt="zhukov-z" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4LIF27&show_icons=true&locale=en&layout=compact" alt="zhukov-z" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhukov-z&show_icons=true&locale=en" alt="zhukov-z" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4LIF27&show_icons=true&locale=en" alt="zhukov-z" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhukov-z&" alt="zhukov-z" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4LIF27&" alt="zhukov-z" /></p>
